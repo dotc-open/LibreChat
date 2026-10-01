@@ -194,5 +194,6 @@ scripts/activity-labels/results/
 /.lighthouse/
 /e2e/lighthouse/.test-results/
 
-# Vector DB data
+# Local data
 /vectordb-data
+/librechat-data
